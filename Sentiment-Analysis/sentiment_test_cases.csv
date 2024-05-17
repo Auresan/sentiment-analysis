@@ -1,0 +1,4 @@
+﻿text,expected_sentiment
+It was good,positive
+It was bad,negative
+It was meh,neutral
